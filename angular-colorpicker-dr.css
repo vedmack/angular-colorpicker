@@ -1,0 +1,109 @@
+.hide {
+  display:none;
+}
+.color-picker-wrapper {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.color-picker-wrapper.body {
+	position: absolute;
+}
+.color-picker-row {
+	display: inline-block;
+	background-color: #DDDDDD;
+}
+.color-picker {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	margin: 1px 1px;
+    vertical-align: middle;
+}
+.color-picker-wrapper.picker-icon {
+    font-size: 0.1px;
+    display: inline-block;
+    vertical-align: text-bottom;
+    margin-left: -18px;
+}
+.color-picker-wrapper.picker-icon.trigger {
+	vertical-align: baseline;
+    margin-left: 0;
+}
+.color-picker-row .color-picker:first-child {
+	margin-left: 2px;
+}
+.color-picker-row .color-picker:last-child {
+	margin-right: 2px;
+}
+.color-picker-row-wrapper:first-child .color-picker {
+	margin-top: 2px;
+}
+.color-picker-row-wrapper:last-child .color-picker {
+	margin-bottom: 2px;
+}
+.color-picker-wrapper.picker-icon .color-picker {
+	width: 4px;
+	height: 4px;
+	margin: 0;
+}
+.color-picker {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+.color-picker:hover {
+	border: 1px solid #DDDDDD;	
+}
+.color-picker.navy  {
+	background-color: #001f3f;
+}
+.color-picker.blue {
+	background-color: #0074D9;
+}
+.color-picker.aqua {
+	background-color: #7FDBFF;
+}
+.color-picker.teal {
+	background-color: #39CCCC;
+}
+.color-picker.olive {
+	background-color: #3D9970;
+}
+.color-picker.green {
+	background-color: #2ECC40;
+}
+.color-picker.lime {
+	background-color: #01FF70;
+}
+.color-picker.yellow {
+	background-color: #FFDC00;
+}
+.color-picker.orange {
+	background-color: #FF851B;
+}
+.color-picker.red {
+	background-color: #FF4136;
+}
+.color-picker.maroon {
+	background-color: #85144b;
+}
+.color-picker.fuchia {
+	background-color: #F012BE;
+}
+.color-picker.purple {
+	background-color: #B10DC9;
+}
+.color-picker.black {
+	background-color: #111111;
+}
+.color-picker.gray {
+	background-color: #AAAAAA;
+}
+.color-picker.white {
+	background-color: #FFFFFF;
+}
