@@ -25,6 +25,9 @@ Features:
 Examples:
 =====
 
+![Using with an input](/vedmack/angular-colorpicker/gh-pages/1.png "Using with an input")
+
+
 <input color-picker ng-model="colorValueInput">
 
 <div color-picker ng-model="colorValueInline"></div>
