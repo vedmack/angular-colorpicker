@@ -26,8 +26,11 @@ Examples:
 =====
 
 ![Using with an input](../gh-pages/1.png "Using with an input")
+
 ![Replacing a div (or any other container) with an inline color picker](../gh-pages/2.png "Replacing a div (or any other container) with an inline color picker")
+
 ![Replacing any HTML element with a cool tiny trigger (click on the little colored square)](../gh-pages/3.png "Replacing any HTML element with a cool tiny trigger (click on the little colored square)")
+
 ![Coloring the input with the selected color](../gh-pages/4.png "Coloring the input with the selected color")
 
 
