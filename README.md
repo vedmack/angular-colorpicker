@@ -57,7 +57,6 @@ angular.module('colorPickerApp', ['color-picker-dr'])
 Available attributes
 =====
 
-* color-picker: use this to turn your element into a color picker
 * tiny-trigger="true": replace any HTML element with a cool tiny trigger
 * color-me="true": color the extended input on color selection
 
