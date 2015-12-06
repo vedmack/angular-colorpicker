@@ -7,13 +7,6 @@ Description:
 The color picker for AngularJS - Native / Simple / Cool. No other dependencies are needed at all.
 
 
-Contact/Social:
-=====
-If you want to ask a question you can post a question on [stackoverflow](www.stackoverflow.com)
-
-If you like my directive, you can show your appreciation by following me on [Twitter](https://twitter.com/danielreznick) / [GitHub](https://github.com/vedmack)
-
-
 Features:
 =====
 
@@ -53,12 +46,18 @@ angular.module('colorPickerApp', ['color-picker-dr'])
 ```
 
 
-
 Available attributes
 =====
 
 * tiny-trigger="true": replace any HTML element with a cool tiny trigger
 * color-me="true": color the extended input on color selection
+
+
+Contact/Social:
+=====
+If you want to ask a question you can post a question on [stackoverflow](www.stackoverflow.com)
+
+If you like my directive, you can show your appreciation by following me on [Twitter](https://twitter.com/danielreznick) / [GitHub](https://github.com/vedmack)
 
 
 License:
