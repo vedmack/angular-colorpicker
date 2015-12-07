@@ -18,7 +18,7 @@ Features:
 Examples:
 =====
 
-![Angular color picker in action](../gh-pages/1.png "Angular color picker in action")
+![Angular color picker in action](../gh-pages/angular-color-picker-in-action.gif "Angular color picker in action")
 
 
 <input color-picker ng-model="colorValueInput">
