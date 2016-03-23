@@ -34,7 +34,7 @@ Usage:
 =====
 
 ```javascript
-angular.module('colorPickerApp', ['color-picker-dr'])
+angular.module('colorPickerApp', ['colorpicker-dr'])
   .controller('ColorPickerCtrl', ['$scope', function($scope) {
   }]);
 ```
