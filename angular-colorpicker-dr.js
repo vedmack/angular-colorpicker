@@ -254,5 +254,6 @@
 	        }
         };
     };
+    directive.$inject = ["$compile","$document", "$window"];
     angular.module('colorpicker-dr', []).directive('colorPicker', directive);
 }());
