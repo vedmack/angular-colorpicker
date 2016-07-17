@@ -246,7 +246,7 @@
 					var i,
 						docChildren = $document.find('body').children();
 					for (i = 0; i < docChildren.length; i++) {
-						if (docChildren[i].className.indexOf('color-picker-wrapper body') !== -1) {
+						if (docChildren[i].getAttribute("class") && docChildren[i].getAttribute("class").indexOf('color-picker-wrapper body') !== -1) {
 							angular.element(docChildren[i]).addClass('hide');
 						}
 					}
