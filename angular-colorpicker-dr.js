@@ -254,5 +254,5 @@
 	        }
         };
     };
-    angular.module('colorpicker-dr', []).directive('colorPicker', directive);
+    angular.module('colorpicker-dr', []).directive('colorPicker',['$compile', '$document', '$window', directive]);
 }());
