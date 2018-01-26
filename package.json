@@ -1,0 +1,26 @@
+{
+  "author": "Daniel Reznick",
+  "name": "angular-colorpicker-dr",
+  "description": "The color picker for AngularJS - Native / Simple / Cool. No other dependencies are needed at all.",
+  "version": "0.1.0",
+  "homepage": "http://vedmack.github.io/angular-colorpicker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedmack/angular-colorpicker/"
+  },
+  "main": [
+    "angular-colorpicker-dr.js",
+    "angular-colorpicker-dr.css"
+  ],
+  "dependencies": {
+    "angular": ">=1.3.0"
+  },
+  "keywords": [
+    "angular",
+    "color-picker",
+    "colorpicker",
+    "directive",
+    "module"
+  ],
+  "license": "MIT"
+}
